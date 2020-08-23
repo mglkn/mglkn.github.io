@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/github-search/static/css/main.ad6605b3.chunk.css",
-    "main.js": "/github-search/static/js/main.39a23b43.chunk.js",
-    "main.js.map": "/github-search/static/js/main.39a23b43.chunk.js.map",
+    "main.js": "/github-search/static/js/main.be0ca5cb.chunk.js",
+    "main.js.map": "/github-search/static/js/main.be0ca5cb.chunk.js.map",
     "runtime-main.js": "/github-search/static/js/runtime-main.1ca5f039.js",
     "runtime-main.js.map": "/github-search/static/js/runtime-main.1ca5f039.js.map",
     "static/css/2.764ccc25.chunk.css": "/github-search/static/css/2.764ccc25.chunk.css",
-    "static/js/2.42ec2996.chunk.js": "/github-search/static/js/2.42ec2996.chunk.js",
-    "static/js/2.42ec2996.chunk.js.map": "/github-search/static/js/2.42ec2996.chunk.js.map",
+    "static/js/2.37d15bb2.chunk.js": "/github-search/static/js/2.37d15bb2.chunk.js",
+    "static/js/2.37d15bb2.chunk.js.map": "/github-search/static/js/2.37d15bb2.chunk.js.map",
     "index.html": "/github-search/index.html",
-    "precache-manifest.7229b9a7f600630a526e6ffe226f53f9.js": "/github-search/precache-manifest.7229b9a7f600630a526e6ffe226f53f9.js",
+    "precache-manifest.3c5af0344209801a08a17678a63645f0.js": "/github-search/precache-manifest.3c5af0344209801a08a17678a63645f0.js",
     "service-worker.js": "/github-search/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/github-search/static/css/2.764ccc25.chunk.css.map",
     "static/css/main.ad6605b3.chunk.css.map": "/github-search/static/css/main.ad6605b3.chunk.css.map",
-    "static/js/2.42ec2996.chunk.js.LICENSE.txt": "/github-search/static/js/2.42ec2996.chunk.js.LICENSE.txt",
+    "static/js/2.37d15bb2.chunk.js.LICENSE.txt": "/github-search/static/js/2.37d15bb2.chunk.js.LICENSE.txt",
     "static/media/fork-icon.9b72dac1.svg": "/github-search/static/media/fork-icon.9b72dac1.svg",
     "static/media/star-icon.e278842d.svg": "/github-search/static/media/star-icon.e278842d.svg",
     "static/media/watch-icon.bd40c21f.svg": "/github-search/static/media/watch-icon.bd40c21f.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.1ca5f039.js",
     "static/css/2.764ccc25.chunk.css",
-    "static/js/2.42ec2996.chunk.js",
+    "static/js/2.37d15bb2.chunk.js",
     "static/css/main.ad6605b3.chunk.css",
-    "static/js/main.39a23b43.chunk.js"
+    "static/js/main.be0ca5cb.chunk.js"
   ]
 }
