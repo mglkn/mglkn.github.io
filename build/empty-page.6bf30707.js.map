@@ -1,0 +1,1 @@
+{"version":3,"sources":["empty-page/index.js"],"names":[],"mappings":";;;;;;;AAEA,aAFA,QAAA,mBAEA,QAAA","file":"empty-page.6bf30707.js","sourceRoot":"..\\src\\pages","sourcesContent":["import \"../../root.scss\";\r\n\r\nimport \"./*.scss\";\r\n"]}
